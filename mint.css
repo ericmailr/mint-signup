@@ -1,0 +1,79 @@
+html {
+    background-color: #ECEEF1;
+    font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+
+article {
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    padding-top: 20px;
+}
+
+li {
+    display: inline;
+    list-style-type: circle;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link-icon {
+    margin-right: -5px;
+}
+
+label {
+    font-size: x-small;
+    float: left;
+    margin-left: 10%;
+}
+
+form {
+     background-color: white;
+     width: 22%;
+     margin: auto;
+     border-style: solid;
+     border-color: silver;
+}
+
+input {
+    width: 80%;
+    font-size: 16pt;
+    margin-bottom: 25px;
+}
+
+#phone-disclaimer {
+   font-size: 9pt; 
+   margin-top: -42px;
+   float: left;
+   margin-left: 10%;
+}
+
+button {
+    margin: 30px;
+    border-radius: 5px;
+    background-color: #0077C5;
+    color: white;
+    width: 80%;
+    font-size: 14pt;
+    line-height: 36px;
+}
+
+#account-disclaimer {
+    font-size: 12px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#form-description {
+    font-size: 17px;
+    width: 80%;
+    margin: auto;
+    margin-top: -30px;
+    margin-bottom: 20px;
+}
