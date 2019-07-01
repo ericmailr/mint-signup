@@ -29,6 +29,7 @@ a {
 label {
     font-size: x-small;
     float: left;
+    clear: left;
     margin-left: 10%;
 }
 
@@ -43,14 +44,15 @@ form {
 input {
     width: 80%;
     font-size: 16pt;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 
 #phone-disclaimer {
    font-size: 9pt; 
-   margin-top: -42px;
+   padding-top: 0;
    float: left;
    margin-left: 10%;
+   margin-top: -33px;
 }
 
 button {
@@ -65,6 +67,7 @@ button {
 
 #account-disclaimer {
     font-size: 12px;
+    font-style: italic;
     width: 60%;
     margin: auto;
     margin-bottom: 20px;
